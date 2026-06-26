@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 190655" src="https://github.com/user-attachments/assets/c9d0920f-1f65-4d57-b395-74a3553aca91" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 190724" src="https://github.com/user-attachments/assets/1b2bbd42-1391-4eb3-82ec-94d7b411b376" />
 # EDA_Project
 # Exploratory Data Analysis Project
 ## Objective
